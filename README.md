@@ -1,4 +1,5 @@
 ## Olá! Eu sou Rafael Nagatomo 👋
+##Web developer / Front-end developer
 
 Comecei minha jornada de estudos em Janeiro de 2023, buscando uma transição de carreira.
 
