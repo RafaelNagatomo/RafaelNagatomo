@@ -5,6 +5,7 @@ Comecei minha jornada de estudos em Janeiro de 2023, buscando uma transição de
 
 Atualmente estudando Javascript, NodeJs e React.
 
+Acesse meu portifólio: https://rafaelnagatomo.netlify.app/
 
 <div align="left">
   
