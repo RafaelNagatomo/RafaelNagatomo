@@ -3,7 +3,7 @@
 
 Atualmente estudando  React, TypeScript, Python, Django.
 
-Acesse meu portifólio: https://rafaelnagatomo.netlify.app/
+
 
 <div align="left">
   
