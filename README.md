@@ -23,7 +23,8 @@ Acesse meu portifólio: https://rafaelnagatomo.netlify.app/
   <img align="center" alt="NodeJs" height="40" width="50" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
   <img align="center" alt="Jho-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
- 
+  <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/python-original.svg">
+
 </div>
 
 ## Contato
