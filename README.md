@@ -1,9 +1,7 @@
 ## Olá! Eu sou Rafael Nagatomo 👋
-## Desenvolvedor Front-end
+## Desenvolvedor Fullstack
 
-Comecei minha jornada de estudos em Janeiro de 2023, buscando uma transição de carreira.
-
-Atualmente estudando Javascript, NodeJs e React.
+Atualmente estudando  React, TypeScript, Python, Django.
 
 Acesse meu portifólio: https://rafaelnagatomo.netlify.app/
 
