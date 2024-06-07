@@ -23,7 +23,7 @@ Atualmente estudando  React, TypeScript, Python, Django.
   <img align="center" alt="NodeJs" height="40" width="50" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
   <img align="center" alt="Jho-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jho-python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="120" width="50" src="https://icongr.am/devicon/django-plain.svg?size=148&color=ccc7c7" />
+  <img align="center" height="40" width="50" src="https://devicon-website.vercel.app/api/django/plain.svg?color=%23248C64" />
         
 
 </div>
