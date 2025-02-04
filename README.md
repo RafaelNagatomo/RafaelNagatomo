@@ -45,8 +45,6 @@
   <img align="center" height="80" width="80" src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" title="Chakra UI">
 </div>
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-          
 ## Contato
 
 <div>  
